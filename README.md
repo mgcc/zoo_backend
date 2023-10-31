@@ -1,7 +1,7 @@
 ### Zoo application
 
 
-## Backend CRUD API for for Animal records
+## Backend CRUD API for Animal records
 
 The structure of Animal records is as follows:
 
